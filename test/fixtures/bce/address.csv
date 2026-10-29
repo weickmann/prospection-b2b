@@ -1,0 +1,7 @@
+EntityNumber,TypeOfAddress,CountryNL,CountryFR,Zipcode,MunicipalityNL,MunicipalityFR,StreetNL,StreetFR,HouseNumber,Box,ExtraAddressInfo,DateStrikingOff
+"0400.378.863","REGO","","","4000","Luik","Liège","Timmerliedenstraat","Rue des Charpentiers","14","","",""
+"0456.789.012","REGO","","","4020","Luik","Liège","","Quai de Rome","82","3","",""
+"0712.345.678","REGO","","","5000","Namen","Namur","","Rue de Fer","5","","",""
+"0888.777.666","REGO","","","1000","Brussel","Bruxelles","","Rue de la Loi","155","","",""
+"0501.602.703","REGO","","","5100","Namen","Namur","","Chaussée de Dinant","200","","",""
+"0644.955.113","BAET","","","7000","Bergen","Mons","","Grand Place","12","","",""

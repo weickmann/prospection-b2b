@@ -1,0 +1,60 @@
+{
+  "results": [
+    {
+      "siren": "412563987",
+      "nom_complet": "MENUISERIE BERTRAND",
+      "nom_raison_sociale": "MENUISERIE BERTRAND",
+      "sigle": null,
+      "nombre_etablissements": 2,
+      "nombre_etablissements_ouverts": 2,
+      "activite_principale": "43.32A",
+      "section_activite_principale": "F",
+      "categorie_entreprise": "PME",
+      "nature_juridique": "5710",
+      "date_creation": "1998-04-17",
+      "date_mise_a_jour": "2026-08-02",
+      "etat_administratif": "A",
+      "tranche_effectif_salarie": "12",
+      "annee_tranche_effectif_salarie": "2024",
+      "statut_diffusion": "O",
+      "siege": {
+        "siret": "41256398700024",
+        "activite_principale": "43.32A",
+        "adresse": "14 RUE DES CHARPENTIERS 69100 VILLEURBANNE",
+        "code_postal": "69100",
+        "commune": "69266",
+        "libelle_commune": "VILLEURBANNE",
+        "departement": "69",
+        "region": "84",
+        "latitude": "45.771",
+        "longitude": "4.889"
+      },
+      "dirigeants": [
+        { "nom": "BERTRAND", "prenoms": "PHILIPPE MARCEL", "qualite": "Président", "annee_de_naissance": "1966", "type_dirigeant": "personne physique" },
+        { "nom": "BERTRAND", "prenoms": "CLAIRE", "qualite": "Directrice générale", "annee_de_naissance": "1971", "type_dirigeant": "personne physique" }
+      ],
+      "finances": {
+        "2022": { "ca": 3850000, "resultat_net": 214000 },
+        "2023": { "ca": 4320000, "resultat_net": 268000 }
+      },
+      "complements": { "est_rge": true, "est_qualiopi": false, "est_ess": false, "est_bio": false, "est_societe_mission": false, "est_entrepreneur_individuel": false }
+    },
+    {
+      "siren": "900111222",
+      "nom_complet": "SCI LES ACACIAS",
+      "activite_principale": "68.20B",
+      "section_activite_principale": "L",
+      "nature_juridique": "6540",
+      "date_creation": "2024-02-01",
+      "etat_administratif": "A",
+      "tranche_effectif_salarie": "NN",
+      "siege": { "siret": "90011122200013", "adresse": "3 ALLEE DES ACACIAS 69003 LYON", "code_postal": "69003", "libelle_commune": "LYON 3EME", "departement": "69", "region": "84" },
+      "dirigeants": [],
+      "complements": {}
+    }
+  ],
+  "total_results": 2,
+  "page": 1,
+  "per_page": 25,
+  "total_pages": 1
+}

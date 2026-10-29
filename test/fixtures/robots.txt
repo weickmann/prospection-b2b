@@ -1,0 +1,9 @@
+# robots de test
+User-agent: BadBot
+Disallow: /
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /panier
+Allow: /wp-admin/admin-ajax.php
+Disallow: /*.pdf$

@@ -1,0 +1,17 @@
+{
+  "name": "prospection-b2b",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Outil de prospection B2B : sourcing Sirene, enrichissement web, scoring ICP et rédaction de séquences. Zéro dépendance.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "optionalDependencies": {
+    "@anthropic-ai/sdk": "^1.3.0"
+  }
+}
